@@ -3,6 +3,7 @@ defmodule Ancestry do
   This is a macro that allows you to add Ancestry trees to your models.
   It uses a version of Materialized Path Pattern.
   In order to use it, you will need to create the following migration (example: message)
+  
   $ mix ecto.gen.migration add_ancestry_to_messages
 
   defmodule MyApp.Repo.Migrations.AddAncestryToMessages do

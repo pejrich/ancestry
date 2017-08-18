@@ -1,8 +1,12 @@
 # Ancestry
 
-##
+## WARNING
 
-WARNING: Do not use this! It's still under development and not ready for use. Any help testing, finishing, etc. is greatly appreciated.
+Do not use this! It's still under development and not ready for use. Any help testing, finishing, etc. is greatly appreciated.
+
+Currently it's only been used with Postgres and on Elixir/Phoenix/Ecto
+
+
 
 ## Installation
 
