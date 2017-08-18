@@ -1,6 +1,8 @@
 # Ancestry
 
-**TODO: Add description**
+##
+
+WARNING: Do not use this! It's still under development and not ready for use. Any help testing, finishing, etc. is greatly appreciated.
 
 ## Installation
 
